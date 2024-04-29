@@ -1,0 +1,4 @@
+enum HeatmapCalendarType {
+  intensity,
+  widgets
+}
